@@ -158,7 +158,7 @@ header div ul li a {
 .slider-category ul li {
     height: 70px;
     background-color: #35E9BE;
-    margin: 26px 46px;
+    margin: 26px 32px;
     font-size: 40px;
     border-radius: 40px;
     text-align: start;
@@ -628,7 +628,7 @@ header div ul li a {
 
 .footer-branch_address {
     width: 30%;
-    margin: 50px 24px 0;
+    margin: 50px 20px 0;
 }
 
 .footer-branch_address h2 {
